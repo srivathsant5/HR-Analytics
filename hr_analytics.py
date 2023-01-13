@@ -26,6 +26,7 @@ Your client is a large MNC and they have 9 broad verticals across the organisati
 # Commented out IPython magic to ensure Python compatibility.
 #import Neccessory libraries
 import pandas as pd
+import sklearn 
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
